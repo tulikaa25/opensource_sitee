@@ -1,6 +1,6 @@
 # Open Source Club Website
 
-Welcome to the Open Source Club Website! This project serves as the official website for the Open Source Club at VIT hopal University. It includes information about us, upcoming and past events, team members, and how to contribute to open source.
+Welcome to the Open Source Club Website! This project serves as the official website for the Open Source Club at VIT Bhopal University. It includes information about us, upcoming and past events, team members, and how to contribute to open source.
 
 
 
